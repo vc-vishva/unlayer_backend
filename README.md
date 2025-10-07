@@ -2,8 +2,8 @@ This project is a POC for implementing a drag-and-drop email template designer u
 It demonstrates how users can design, edit, and export email templates dynamically.
 
 
-📂Backend Setup
+📂**Backend Setup**
 
-cd ../backend
-npm install
-npm run start:dev
+1. cd ../backend
+2. npm install
+3. npm run start:dev
