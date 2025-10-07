@@ -6,4 +6,4 @@ It demonstrates how users can design, edit, and export email templates dynamical
 
 1. cd ../backend
 2. npm install
-3. npm run start:dev
+3. npm run start
